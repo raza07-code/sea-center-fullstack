@@ -1,0 +1,6 @@
+[submodule "sea-center-frontend"]
+	path = sea-center-frontend
+	url = git@github.com:raza07-code/sea-center-frontend.git
+[submodule "sea-center-backend"]
+	path = sea-center-backend
+	url = git@github.com:raza07-code/sea-center.git
